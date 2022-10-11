@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621593622925",
+    "project_id": "incio-sesion-22",
+    "storage_bucket": "incio-sesion-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621593622925:android:ffe44c24fb7b558703a5c4",
+        "android_client_info": {
+          "package_name": "com.example.join_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621593622925-7vgs1c043rrk2sb5bh8tbnv3knm3emk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxTGQvGxjrR7RpDWbNkzcowxWqSjxBDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621593622925-7vgs1c043rrk2sb5bh8tbnv3knm3emk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
